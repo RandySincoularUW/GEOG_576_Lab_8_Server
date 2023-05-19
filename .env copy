@@ -1,0 +1,10 @@
+flightsAPIKey=Your_Flight_API_Key_Here
+nearbyAirportDistance=25
+csvFile=flights.csv
+defaultAirportCode=MSN
+pgUser=postgres
+pgPassword=Your_Postgres_Password_Here
+targetDB=aviation
+dbTable=flights
+pgHost=aviation.xxxxxxxxxxx.amazonaws.com
+pgPort=5432
